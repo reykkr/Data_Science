@@ -48,8 +48,6 @@ The purpose of this certification is to:
 ## Notes
 This certification program provides a well-rounded foundation in **machine learning** with practical projects that showcase real-world applications of neural networks, NLP, and reinforcement learning. By using **TensorFlow** and **Keras**, participants are empowered to create and train powerful models, laying the groundwork for further exploration and professional opportunities in the field of AI and data science.
 
-
-
 ## Certification Link
 - [Machine Learning with Python Certification](https://www.freecodecamp.org/certification/Reykkr/machine-learning-with-python-v7)
 
