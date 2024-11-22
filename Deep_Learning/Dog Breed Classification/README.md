@@ -8,6 +8,8 @@ This project involves building a convolutional neural network (CNN) to classify 
 
 The dataset used for this project is a collection of dog images, organized into separate folders for each breed. The dataset should be placed in the directory `/dogs`, which contains training, validation, and testing sets. The dataset is loaded using the `glob` and `torchvision` libraries, allowing us to manage and preprocess images efficiently.
 
+- **Dataset Link**: The dataset can be accessed and downloaded from [this Google Drive link](https://drive.google.com/drive/folders/1Epe3QZW7b0DuY87QCQqRdKBNcndUGuaK?usp=drive_link).
+
 **Step 2: Detect Dogs using ResNet50**
 
 The first step is to detect whether an image contains a dog. We use a pre-trained ResNet50 model, which is trained on ImageNet with 1000 categories. The model is downloaded, and we use it to predict the class index of the input image. The model is moved to GPU for faster processing if CUDA is available.
